@@ -1,5 +1,19 @@
-﻿.venv/
+﻿# Python caches
 __pycache__/
-data/
-markers/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# RealSense Data (Large files)
 *.bag
+data/
+
+# Generated Markers (Reproducible, optional to ignore)
+markers/
+
+# OS specific
+.DS_Store
+Thumbs.db
