@@ -13,6 +13,7 @@ data/
 
 # Generated Markers (Reproducible, optional to ignore)
 markers/
+logs/
 
 # OS specific
 .DS_Store
